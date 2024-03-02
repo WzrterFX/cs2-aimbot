@@ -7,6 +7,7 @@ struct Vector2
 {
     float x, y;
 
+    // addition operator
     Vector2 operator+(const Vector2& other) const
     {
         return { x + other.x, y + other.y };
