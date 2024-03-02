@@ -9,7 +9,7 @@
 #include <algorithm>
 
 #include <thread>
-#include <chrono>w
+#include <chrono>
 
 #include "wmemory.h"
 #include "vector.h"
